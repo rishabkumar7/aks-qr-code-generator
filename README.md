@@ -1,0 +1,1 @@
+# aks-qr-code-generator
