@@ -17,6 +17,7 @@ The project is divided into two main parts:
 Navigate to the `front-end-nextjs` directory and run the following command to start the development server:
 
 ```bash
+npm run install
 npm run dev
 ```
 
