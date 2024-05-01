@@ -12,7 +12,8 @@ load_dotenv()
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000",  # Allow frontend to connect from this origin
+    "http://localhost:3000",
+    "http://4.246.235.9:3000"  # Allow frontend to connect from this origin
     # add more origins if needed
 ]
 
